@@ -7,6 +7,8 @@ Knowledge graphs are structured representations of knowledge that capture the re
 ## Importance of Knowledge Graphs for Strategic AI Applications
 Developing strategic-level applications is highly difficult, requiring AI systems to provide specialized advice and solve intricate problems. Large language models, while powerful, need to be augmented with knowledge graphs to enhance their capabilities in delivering domain-specific recommendations and addressing complex issues. OpenStrategyGraph is designed to support the development of strategic AI applications by providing a rich and structured knowledge base.
 
+![](assets/img/product-strategy-framework.png)
+
 ## Maturity Levels of OpenStrategyGraph
 Building a knowledge graph is a complex and long-term endeavor that requires a substantial amount of accurate documentation and the establishment of effective datasets. To meet the diverse needs of users and advance the development of OpenStrategyGraph, we have defined a maturity model. The maturity model contains four levels, each tailored to different user needs and providing specific content under different licensing agreements.
 
