@@ -20,7 +20,7 @@ Building a knowledge graph is a complex and long-term endeavor that requires a s
 To get started with OpenStrategyGraph, simply clone the repository and explore the resources available at each maturity level. We welcome contributions from the community to enrich the knowledge graph and support strategic AI applications.
 
 ## Contributing
-We encourage contributions to OpenStrategyGraph. Whether you're a newcomer or an experienced strategist, your insights and expertise can help enhance this knowledge graph. Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more information.
+We encourage contributions to OpenStrategyGraph. Whether you're a newcomer or an experienced strategist, your insights and expertise can help enhance this knowledge graph. Please refer to our [Contribution Guidelines](.gitbub/CONTRIBUTING.md) for more information.
 
 ## Contact
 If you are interested in a business partnership with this open-source project, please contact, please contact [open@strategylogic.cn](mailto:open@strategylogic.cn).

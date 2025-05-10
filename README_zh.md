@@ -20,7 +20,7 @@ OpenStrategyGraph 是一个为战略 AI 应用设计的开源知识图谱。它�
 要开始使用 OpenStrategyGraph，只需克隆该仓库并探索每个成熟度级别提供的资源。我们欢迎社区成员贡献自己的力量，丰富知识图谱，支持战略 AI 应用。
 
 ## 贡献指南
-我们鼓励您为 OpenStrategyGraph 做出贡献。无论您是新手还是经验丰富的战略家，您的见解和专业知识都有助于完善这一知识图谱。请参阅我们的[贡献指南](CONTRIBUTING.md)以获取更多信息。
+我们鼓励您为 OpenStrategyGraph 做出贡献。无论您是新手还是经验丰富的战略家，您的见解和专业知识都有助于完善这一知识图谱。请参阅我们的[贡献指南](.github/CONTRIBUTING.md)以获取更多信息。
 
 ## 联系我们
 如果您对本开源项目有商业合作兴趣，请通过[open@strategylogic.cn](mailto:open@strategylogic.cn)与我们联系。
