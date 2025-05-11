@@ -7,7 +7,7 @@ OpenStrategyGraph 是一个为战略 AI 应用设计的开源知识图谱。它�
 ## 知识图谱对战略 AI 应用的重要性
 开发战略级应用是一项高难度的任务，需要 AI 应用程序能够提供专业建议并解决复杂问题。尽管大型语言模型功能强大，但它们需要结合知识图谱来增强其在提供特定领域建议和解决复杂问题方面的能力。OpenStrategyGraph 旨在通过提供丰富且结构化的知识库来支持战略 AI 应用的开发。
 
-![](assets/img/product-strategy-framework-zh.png)
+![](assets/img/product-strategy-framework_zh.png)
 
 ## OpenStrategyGraph 的成熟度级别
 构建知识图谱是一项复杂且长期的工作，需要大量准确的文档和有效的数据集。为了满足不同用户的需求并推动 OpenStrategyGraph 的成长，我们采用成熟度模型来定义项目的发展路径。OpenStrategyGraph 成熟度模型包含四个级别，每个级别都针对不同的用户需求，并在不同的许可协议下提供特定的内容。
