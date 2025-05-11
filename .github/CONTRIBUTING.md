@@ -1,6 +1,6 @@
-# OpenStrategyGraph Contribution Guidelines
+# StrategyKG Contribution Guidelines
 
-Welcome to the OpenStrategyGraph project! We encourage contributors from diverse backgrounds to participate and help advance the development of the strategic knowledge graph. Below are the definitions and contribution guidelines for different roles in the project:
+Welcome to the StrategyKG project! We encourage contributors from diverse backgrounds to participate and help advance the development of the strategic knowledge graph. Below are the definitions and contribution guidelines for different roles in the project:
 
 ## Strategy Advisor
 Provide strategic knowledge guidance for the project, select and recommend high-quality documents and data sources, and ensure that the content of the knowledge graph meets the actual needs of strategic planning and decision-making.
@@ -31,10 +31,10 @@ Create visually appealing and user-engaging visualizations for the knowledge gra
 - Offer suggestions and feedback on user interface design to help the project team optimize user experience.
 
 ## Submit GitHub Issues
-If you have any requirements or suggestions for the OpenStrategyGraph project, please submit them directly as GitHub Issues. We welcome your feedback and suggestions to help advance the project.
+If you have any requirements or suggestions for the StrategyKG project, please submit them directly as GitHub Issues. We welcome your feedback and suggestions to help advance the project.
 
 **Steps to Submit Issues**:
-1. Visit the [OpenStrategyGraph GitHub repository](https://github.com/StrategyLogic/OpenStrategyGraph).
+1. Visit the [StrategyKG GitHub repository](https://github.com/StrategyLogic/StrategyKG).
 2. Click on the "Issues" tab at the top left.
 3. Click the "New Issue" button to create a new issue.
 4. In the issue, provide a detailed description of your requirement or suggestion, including background, specific problems, and desired solutions.

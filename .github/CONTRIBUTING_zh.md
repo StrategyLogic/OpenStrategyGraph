@@ -1,6 +1,6 @@
-# OpenStrategyGraph 贡献指南
+# StrategyKG 贡献指南
 
-欢迎加入 OpenStrategyGraph 项目！我们鼓励来自不同背景的贡献者参与，共同推动战略知识图谱的发展。以下是项目对不同角色的定义和贡献指南：
+欢迎加入 StrategyKG 项目！我们鼓励来自不同背景的贡献者参与，共同推动战略知识图谱的发展。以下是项目对不同角色的定义和贡献指南：
 
 ## 战略顾问
 为项目提供战略知识指导，挑选和推荐优质的文档和数据来源，确保知识图谱的内容符合战略规划和决策的实际需求。
@@ -31,10 +31,10 @@
 - 提供用户界面设计的建议和反馈，帮助项目团队优化用户体验。
 
 ## 提交 GitHub Issues
-如果您对 OpenStrategyGraph 项目有需求或建议，请直接在 GitHub 上提交 Issues。我们欢迎您的反馈和建议，共同推动项目的进步。
+如果您对 StrategyKG 项目有需求或建议，请直接在 GitHub 上提交 Issues。我们欢迎您的反馈和建议，共同推动项目的进步。
 
 **提交 Issues 的步骤**：
-1. 访问 [OpenStrategyGraph GitHub 仓库](https://github.com/StrategyLogic/OpenStrategyGraph)。
+1. 访问 [StrategyKG GitHub 仓库](https://github.com/StrategyLogic/StrategyKG)。
 2. 点击左上角的 Issues 标签。
 3. 点击 New Issue 按钮，创建一个新的 Issue。
 4. 在 Issue 中详细描述您的需求或建议，包括背景、具体问题和期望的解决方案。
