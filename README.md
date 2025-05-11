@@ -25,4 +25,4 @@ To get started with StrategyKG, simply clone the repository and explore the reso
 We encourage contributions to StrategyKG. Whether you're a newcomer or an experienced strategist, your insights and expertise can help enhance this knowledge graph. Please refer to our [Contribution Guidelines](.gitbub/CONTRIBUTING.md) for more information.
 
 ## Contact
-If you are interested in a business partnership with this open-source project, please contact, please contact [open@strategylogic.cn](mailto:open@strategylogic.cn).
+If you are interested in a business partnership with this open-source project, please contact [open@strategylogic.cn](mailto:open@strategylogic.cn).
