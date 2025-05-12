@@ -9,6 +9,16 @@ Developing strategic-level applications is highly difficult, requiring AI system
 
 ![](assets/img/product-strategy-framework.png)
 
+### Strategic Knowledge Modeling
+Strategy is complex reasoning, and both symbolic representation and vector representation find it difficult to directly describe the application relationships of strategies. StrategyKG defines four levels of strategic knowledge based on the "abstraction ladder" in cognitive science, making strategic knowledge modeling three-dimensional to further explore the application of complex reasoning.
+
+| Level | Level Name | Abstraction Level | Knowledge Type | Temporal Dimension |
+| ----- | ----- | ---- | ----- | ---- |
+| Level 0 | Conceptual Layer | High-level Abstraction | Theoretical Knowledge | Atemporal |
+| Level 1 | Categorical Layer | Mid-level Abstraction | Domain Knowledge | Long-term Trends |
+| Level 2 | Entity Layer | Low-level Abstraction | Factual Knowledge | Historical Tense |
+| Level 3 | Dynamic Layer | Concrete Instances | Procedural Knowledge | Real-time Stream |
+
 ## Maturity Levels of StrategyKG
 Building a knowledge graph is a complex and long-term endeavor that requires a substantial amount of accurate documentation and the establishment of effective datasets. To meet the diverse needs of users and advance the development of StrategyKG, we have defined a maturity model. The maturity model contains four levels, each tailored to different user needs and providing specific content under different licensing agreements.
 
