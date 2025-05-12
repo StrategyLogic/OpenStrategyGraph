@@ -9,18 +9,18 @@ Developing strategic-level applications is highly difficult, requiring AI system
 
 ![](assets/img/product-strategy-framework.png)
 
-### Strategic Knowledge Modeling
-Strategy is complex reasoning, and both symbolic representation and vector representation find it difficult to directly describe the application relationships of strategies. StrategyKG defines four levels of strategic knowledge based on the "abstraction ladder" in cognitive science, making strategic knowledge modeling three-dimensional to further explore the application of complex reasoning.
+## StrategyKG Strategic Knowledge Modeling
+Strategy is complex reasoning, and both symbolic representation and vector representation find it difficult to directly describe the application relationships of strategies. Based on the "abstraction ladder" in cognitive science, StrategyKG defines four levels of strategic knowledge, making strategic knowledge modeling three-dimensional to further explore the application of complex reasoning. Each level will provide specific content under different licensing agreements to balance open-source and commercial interests, allowing them to complement each other.
 
-| Level | Level Name | Abstraction Level | Knowledge Type | Temporal Dimension |
-| ----- | ----- | ---- | ----- | ---- |
-| Level 0 | Conceptual Layer | High-level Abstraction | Theoretical Knowledge | Atemporal |
-| Level 1 | Categorical Layer | Mid-level Abstraction | Domain Knowledge | Long-term Trends |
-| Level 2 | Entity Layer | Low-level Abstraction | Factual Knowledge | Historical Tense |
-| Level 3 | Dynamic Layer | Concrete Instances | Procedural Knowledge | Real-time Stream |
+| | Level  | Abstraction | Knowledge Type | Temporal | License |
+| ----- | ----- | ---- | ----- | ---- | ---- |
+| Level 0 | Conceptual Layer | High-level Abstraction | Theoretical Knowledge | Atemporal | CC0 (Public) |
+| Level 1 | Categorical Layer | Mid-level Abstraction | Domain Knowledge | Long-term Trends | CC0 (Public) |
+| Level 2 | Entity Layer | Low-level Abstraction | Factual Knowledge | Historical Tense | CC BY 4.0 (Attribution Public) |
+| Level 3 | Dynamic Layer | Concrete Instances | Procedural Knowledge | Real-time Stream | Commercial Use (Requires License) |
 
-## Maturity Levels of StrategyKG
-Building a knowledge graph is a complex and long-term endeavor that requires a substantial amount of accurate documentation and the establishment of effective datasets. To meet the diverse needs of users and advance the development of StrategyKG, we have defined a maturity model. The maturity model contains four levels, each tailored to different user needs and providing specific content under different licensing agreements.
+## Strategic AI Application Capability Maturity Model
+Building a knowledge graph is a complex and long-term task that requires a large number of accurate documents and effective datasets. To meet the needs of different users and promote the growth of StrategyKG, we use the capability maturity model to measure the development path of strategic AI applications based on knowledge graphs (and large language models). The Strategic AI Application Capability Maturity Model includes four levels, each targeting different user needs and providing specific content under different licensing agreements.
 
 | **Maturity Level** | **0 - Starter** | **1 - Learner** | **2 - Executor** | **3+ - Strategist** |
 |--------------------|----------------|----------------|------------------|--------------------|
